@@ -1,0 +1,11 @@
+body {
+    font-family: 'Heebo', sans-serif;
+}
+
+.bg {
+    background-color: #F4F5F9;
+}
+
+.hero {
+    min-height: 60vh;
+}
